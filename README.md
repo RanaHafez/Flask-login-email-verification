@@ -5,8 +5,11 @@
 ###  a website for only allowing emails that are not personal to be verified via email. 
 
 ![entring a personal email](first-img.PNG)
+## output when entring a personal email
 ![email sent successfully](second-img.PNG)
+## output when email sent successfully
 ![email verified](third-img.PNG)
+## output when email is verified
 
 
 MIT License
